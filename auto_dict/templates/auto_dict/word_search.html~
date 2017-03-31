@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Our Word Search Page</title>
+    </head>
+    <body>
+        <h3 >The word is {{word}}. The deninition is {{definition}}.</h3>
+    </body>
+
+</html>
+
